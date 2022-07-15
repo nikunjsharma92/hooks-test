@@ -1,2 +1,2 @@
 def pre_process(inp):
-    return inp * 2
+    return inp *3
